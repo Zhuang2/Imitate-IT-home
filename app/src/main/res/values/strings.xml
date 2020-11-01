@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ITNewsKotlin</string>
+    <string name="TODO">TODO</string>
+    <string name="search">搜索</string>
+    <string name="attention">关注</string>
+    <string name="newest">最新</string>
+    <string name="most_search">热榜</string>
+    <string name="hot_word">热评</string>
+    <string name="intensive">精读</string>
+    <string name="IPHONE">苹果</string>
+    <string name="original">原创</string>
+    <string name="evaluating">评测</string>
+    <string name="streaming">直播</string>
+    <string name="IT">IT号</string>
+    <string name="five">5G</string>
+    <string name="balcony">阳台</string>
+    <string name="mobile">手机</string>
+    <string name="numerical">数码</string>
+    <string name="college">学院</string>
+    <string name="VR">VR</string>
+    <string name="smart">智能汽车</string>
+    <string name="computer">电脑</string>
+    <string name="east">京东精选</string>
+    <string name="information">资讯</string>
+    <string name="product">辣品</string>
+    <string name="dumpling">圈子</string>
+    <string name="find">发现</string>
+    <string name="mine">我</string>
+</resources>
